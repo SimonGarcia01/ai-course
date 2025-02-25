@@ -1,0 +1,21 @@
+ID,Genero,Estado Civil,Ocupacion,Ingreso_Anual_(USD)
+1,M,Soltero,Ingeniero,75000
+2,F,Casado,Médico,120000
+3,F,Soltero,Abogado,90000
+4,M,Casado,Ingeniero,80000
+5,M,Soltero,Maestro,50000
+6,F,Casado,Enfermera,70000
+7,M,Soltero,Abogado,95000
+8,F,Casado,Ingeniero,85000
+9,M,Casado,Médico,110000
+10,F,Soltero,Maestro,60000
+11,F,Soltero,Enfermera,65000
+12,M,Casado,Abogado,105000
+13,F,Casado,Médico,130000
+14,M,Soltero,Ingeniero,77000
+15,M,Casado,Maestro,55000
+16,F,Soltero,Médico,115000
+17,M,Casado,Enfermera,72000
+18,F,Soltero,Ingeniero,82000
+19,M,Soltero,Abogado,92000
+20,F,Casado,Maestro,58000
